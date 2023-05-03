@@ -1,0 +1,5 @@
+name: jup_env
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\ahmui\miniconda3\envs\jup_env
